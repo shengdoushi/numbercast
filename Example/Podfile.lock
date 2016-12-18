@@ -1,0 +1,16 @@
+PODS:
+  - numbercast (0.1.0)
+
+DEPENDENCIES:
+  - numbercast (from `../`)
+
+EXTERNAL SOURCES:
+  numbercast:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  numbercast: 53cf4c469119608734994021255afd8c413c0f47
+
+PODFILE CHECKSUM: c024c1aa32c72863c186b490c4e8b56737b07343
+
+COCOAPODS: 1.1.1

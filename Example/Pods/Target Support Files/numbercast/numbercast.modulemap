@@ -1,0 +1,6 @@
+framework module numbercast {
+  umbrella header "numbercast-umbrella.h"
+
+  export *
+  module * { export * }
+}

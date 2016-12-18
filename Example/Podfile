@@ -1,0 +1,6 @@
+use_frameworks!
+target 'numbercast_Tests' do
+  pod 'numbercast', :path => '../'
+  
+  
+end

@@ -1,0 +1,6 @@
+framework module Pods_numbercast_Tests {
+  umbrella header "Pods-numbercast_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
